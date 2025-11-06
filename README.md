@@ -1,5 +1,7 @@
-# Sabre de Luz Interativo
+https://github.com/user-attachments/assets/f5469489-8706-4e04-a925-9837e14ccb87
 
+
+# Sabre de Luz Interativo
 Projeto web que simula sabres de luz com animações, cores configuráveis e resposta a eventos do usuário. Desenvolvido com HTML, CSS e JavaScript, priorizando semântica, acessibilidade e manutenção simples.
 
 ## Visão Geral
